@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f3c88,100:6c5ce7&height=220&section=header&text=Bienvenido%20a%20mi%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%E2%80%A2%20IoT%20%E2%80%A2%20Desarrollo%20de%20sistemas&descAlignY=60&descSize=18" alt="Header" width="100%"/> <a href="https://github.com/robertoBCV"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6C5CE7&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Roberto+%F0%9F%91%8B;Desarrollador+de+Software;Python+%7C+Java+%7C+Kotlin+%7C+PHP;Creando+sistemas+de+gesti%C3%B3n+y+proyectos+IoT;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" /> </a> <br/> <img src="https://komarev.com/ghpvc/?username=robertoBCV&label=Visitas&color=6c5ce7&style=for-the-badge" alt="Visitas"/> <img src="https://img.shields.io/github/followers/robertoBCV?style=for-the-badge&logo=github&color=1f3c88" alt="Seguidores"/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f3c88,100:6c5ce7&height=220&section=header&text=Bienvenido%20a%20mi%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%E2%80%A2%20IoT%20%E2%80%A2%20Desarrollo%20de%20sistemas&descAlignY=60&descSize=18" alt="Header" width="100%"/> <a href="https://github.com/robertoBCV"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6C5CE7&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Juan+Jonatan+%F0%9F%91%8B;Desarrollador+de+Software;Python+%7C+Java+%7C+Kotlin+%7C+PHP;Creando+sistemas+de+gesti%C3%B3n+y+proyectos+IoT;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" /> </a> <br/> <img src="https://komarev.com/ghpvc/?username=robertoBCV&label=Visitas&color=6c5ce7&style=for-the-badge" alt="Visitas"/> <img src="https://img.shields.io/github/followers/robertoBCV?style=for-the-badge&logo=github&color=1f3c88" alt="Seguidores"/>
 
 <br/><br/>
 
@@ -26,6 +26,12 @@ Editores de código
 
 IoT
 <img src="https://skillicons.dev/icons?i=arduino&perline=6" alt="Arduino"/> </div>
+🏅 Certificaciones
+<div align="center"> <img src="https://img.shields.io/badge/Gemini-Programa%20de%20Maestr%C3%ADa-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Programa de Maestría de Gemini"/>
+
+<sub>Certificado de Finalización · Programa de Maestría de Gemini</sub>
+
+</div> <!-- Para mostrar la imagen del certificado: sube el archivo al repositorio como certificado-gemini.jpg y descomenta la línea de abajo --> <!-- <p align="center"><img src="certificado-gemini.jpg" width="500" alt="Certificado Gemini"/></p> -->
 🚀 Proyectos destacados
 Proyecto	Descripción	Tecnologías
 🎓 Sistema de Gestión Académica	Aplicación de escritorio con login moderno, menú lateral, registro de usuarios y módulos de cálculo	Mostrar imagen Mostrar imagen Mostrar imagen
