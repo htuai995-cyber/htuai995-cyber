@@ -31,7 +31,8 @@ IoT
 
 <sub>Certificado de Finalización · Programa de Maestría de Gemini</sub>
 
-</div> <!-- Para mostrar la imagen del certificado: sube el archivo al repositorio como certificado-gemini.jpg y descomenta la línea de abajo --> <!-- <p align="center"><img src="certificado-gemini.jpg" width="500" alt="Certificado Gemini"/></p> -->
+</div> <!-- Para mostrar la imagen del certificado: sube el archivo al repositorio como certificado-gemini.jpg y descomenta la línea de abajo -->
+ <p align="center"><img src="WhatsApp Image 2026-10-16 at 8.05.13 AM (1)" width="500" alt="Certificado Gemini"/></p>
 🚀 Proyectos destacados
 Proyecto	Descripción	Tecnologías
 🎓 Sistema de Gestión Académica	Aplicación de escritorio con login moderno, menú lateral, registro de usuarios y módulos de cálculo	Mostrar imagen Mostrar imagen Mostrar imagen
